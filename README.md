@@ -57,7 +57,14 @@ This app fetches real-time weather data using a REST API.
 
 ## 📸 Screenshots
 
-(Add your app screenshots here)
+### 🏠 Home Screen (Default weahter of my current location)
+![Home Screen](EXTRA-RESOURCES/Start_up.png)
+
+### 🔍 Search Feature
+![Search](EXTRA-RESOURCES/london_weather.png)
+
+### ☀️ Sunny Mode
+![Night](EXTRA-RESOURCES/new_york_weather.png)
 
 ---
 
