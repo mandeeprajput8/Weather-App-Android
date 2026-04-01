@@ -60,7 +60,7 @@ This app fetches real-time weather data using a REST API.
 ### 🏠 Home Screen (Default weahter of my current location)
 ![Home Screen](EXTRA-RESOURCES/screenshots/Start_up.png)
 
-### 🔍 Search Feature
+### ☁️ Cloudy Weather
 ![Search](EXTRA-RESOURCES/screenshots/london_weather.png)
 
 ### ☀️ Sunny Mode
